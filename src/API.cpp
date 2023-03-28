@@ -148,8 +148,6 @@ inline std::map<std::string, SourceData> endpoint_data = {
                 {"wink", "sfw/wink"},
                 {"poke", "sfw/poke"},
                 {"dance", "sfw/dance"},
-            }, // Not including 'kill' because it's bad
-            {
                 {"neko", "nsfw/neko"},
                 {"waifu", "nsfw/waifu"},
                 {"trap", "nsfw/trap"},
@@ -172,8 +170,6 @@ inline std::map<std::string, SourceData> endpoint_data = {
                 {"cuddle", "cuddle"},
                 {"punch", "punch"},
                 {"waifu", "waifu"},
-            },
-            {
                 {"hentai", "hentai"},
                 {"boobs", "nsfw/boobs"},
                 {"lesbian", "nsfw/lesbian"},
